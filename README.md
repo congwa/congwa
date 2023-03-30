@@ -1,1 +1,1 @@
-![congwa github stats](https://github-readme-stats-hssi0xign-congwa.vercel.app/api?username=congwa)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=congwa)](https://github.com/anuraghazra/github-readme-stats)
