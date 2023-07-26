@@ -14,8 +14,8 @@
 
 
 ## 💬 Talk with me 
-- Backend web development(nodejs,go,rust)
-- Frontend web development(vue,uniapp,react,qwik)
+- Backend web development(nodejs,go)
+- Frontend web development(vue,uniapp,react,astro)
 - Cool idea about production
 
 ## 📅 Hobbies
