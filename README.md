@@ -1,5 +1,9 @@
+
+
+
+
 <div align="center">
-    ![](https://raw.githubusercontent.com/congwa/congwa/main/assets/github-contribution-grid-snake.svg)
+    <img src="https://raw.githubusercontent.com/congwa/congwa/main/assets/github-contribution-grid-snake.svg">
 </div>
 
 <h1 align="center">God dag 👋,  I'm congwa </h1>
