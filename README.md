@@ -1,3 +1,7 @@
+<div align="center">
+    ![](https://raw.githubusercontent.com/congwa/congwa/main/assets/github-contribution-grid-snake.svg)
+</div>
+
 <h1 align="center">God dag 👋,  I'm congwa </h1>
 <h3 align="center">A software developer in Forkway </h3>
 
@@ -24,7 +28,7 @@
 - developing warm product🏖
 - sleeping before 24:00 🚼
 - etc.
-![](https://raw.githubusercontent.com/congwa/congwa/main/assets/github-contribution-grid-snake.svg)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=congwa&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=congwa&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=congwa&theme=github_dark)
