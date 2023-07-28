@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">God dag 👋,  I'm congwa </h1>
-<h3 align="center">A software developer in Forkway </h3>
+<h3 align="center">A software developer</h3>
 
 <!-- ## 🏗 Current Working
 - 📋 [CāiCí-猜词](https://caici.forkway.cn)
@@ -28,7 +28,6 @@
 
 ## 📅 Hobbies
 - swimmming at 7:00  🏊‍♀️
-- reading by the lake 📚
 - developing warm product🏖
 - sleeping before 24:00 🚼
 - etc.
