@@ -22,12 +22,12 @@
 
 
 ## 💬 Talk with me 
-- Backend web development(nodejs,go)
+- Backend web development(nodejs,go,python)
 - Frontend web development(vue,uniapp,react,astro)
 - Cool idea about production
 
 ## 📅 Hobbies
-- swimmming at 7:00  🏊‍♀️
+- 7:00
 - developing warm product🏖
 - sleeping before 24:00 🚼
 - etc.
