@@ -27,6 +27,7 @@ I'm a full-stack developer passionate about AI-powered tools and developer exper
 | [**Skill-Know**](https://github.com/congwa/Skill-Know) | Knowledge base retrieval system using Agent Skills. Outperforms traditional RAG for small-to-medium knowledge bases with progressive disclosure approach. Built with FastAPI + Next.js + LangChain. |
 | [**embedease-ai**](https://github.com/congwa/embedease-ai) | An out-of-the-box AI customer service system. Intelligent product recommendation, real-time human handoff, embeddable widget — deploy in 3 minutes. Built with FastAPI + LangGraph + Qdrant. |
 | [**embedease-sdk**](https://github.com/congwa/embedease-sdk) | Unified streaming chat SDK toolkit containing frontend (React) and backend (Python LangGraph Agent Kit) components for embedease-ai. |
+| [**GitPulse**](https://github.com/congwa/GitPulse) | A Tauri + React desktop app for team code analytics. Parses Git repository history with AI-powered analysis to provide comprehensive code contribution insights, team collaboration diagnostics, and quality assessment. Features dashboard, team overview, member profiles, module analysis, AI insights, and "slacker detection" with DeepAgent multi-level architecture. |
 
 ### 📖 LangChain Source Code Study
 
