@@ -27,6 +27,7 @@
 | [**Skill-Know**](https://github.com/congwa/Skill-Know) | 基于 Agent Skills 的知识库检索系统，在中小型知识库场景下效果优于传统 RAG，采用渐进式披露方式组织数据。技术栈：FastAPI + Next.js + LangChain。 |
 | [**embedease-ai**](https://github.com/congwa/embedease-ai) | 一款开箱即用的 AI 智能客服系统 —— 智能商品推荐、实时人工接入、可嵌入式组件，3 分钟部署上线。技术栈：FastAPI + LangGraph + Qdrant。 |
 | [**embedease-sdk**](https://github.com/congwa/embedease-sdk) | 统一的流式聊天 SDK 工具包，包含前端（React 封装）和后端（Python LangGraph Agent Kit）组件，为 embedease-ai 提供 SDK 支持。 |
+| [**GitPulse**](https://github.com/congwa/GitPulse) | 基于 Tauri + React 的桌面应用，用数据讲述团队的代码故事。解析 Git 仓库历史记录，结合 AI 智能分析，提供全方位的代码贡献洞察、团队协作诊断和代码质量评估。功能包括仪表盘、团队全景、成员画像、模块分析、AI 洞察和工贼检测中心（基于 DeepAgent 多级 Agent 架构）。 |
 
 ### 📖 LangChain 源码阅读
 
