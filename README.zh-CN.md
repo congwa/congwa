@@ -29,6 +29,7 @@
 | [**embedease-sdk**](https://github.com/congwa/embedease-sdk) | 统一的流式聊天 SDK 工具包，包含前端（React 封装）和后端（Python LangGraph Agent Kit）组件，为 embedease-ai 提供 SDK 支持。 |
 | [**GitPulse**](https://github.com/congwa/GitPulse) | 基于 Tauri + React 的桌面应用，用数据讲述团队的代码故事。解析 Git 仓库历史记录，结合 AI 智能分析，提供全方位的代码贡献洞察、团队协作诊断和代码质量评估。功能包括仪表盘、团队全景、成员画像、模块分析、AI 洞察和工贼检测中心（基于 DeepAgent 多级 Agent 架构）。 |
 | [**skill-manager**](https://github.com/congwa/skill-manager) | 跨平台 AI 编码工具 Skill 统一管理器。支持导入项目、发现并管理各工具的 Skill，连接 skills.sh 在线仓库进行安装/更新，并提供一键备份同步至 GitHub/Gitee 远程仓库的能力。技术栈：React 19 + TypeScript + Tauri v2。 |
+| [**wechat-translate**](https://github.com/congwa/wechat-translate) | 在微信中学英语 —— 让英语学习融入日常聊天，把刷微信的时间变成学英语的机会。提供实时翻译和词汇构建功能，让您的微信时间成为英语学习时光。 |
 
 ### 📖 LangChain 源码阅读
 
