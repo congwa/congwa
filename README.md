@@ -29,6 +29,7 @@ I'm a full-stack developer passionate about AI-powered tools and developer exper
 | [**embedease-sdk**](https://github.com/congwa/embedease-sdk) | Unified streaming chat SDK toolkit containing frontend (React) and backend (Python LangGraph Agent Kit) components for embedease-ai. |
 | [**GitPulse**](https://github.com/congwa/GitPulse) | A Tauri + React desktop app for team code analytics. Parses Git repository history with AI-powered analysis to provide comprehensive code contribution insights, team collaboration diagnostics, and quality assessment. Features dashboard, team overview, member profiles, module analysis, AI insights, and "slacker detection" with DeepAgent multi-level architecture. |
 | [**skill-manager**](https://github.com/congwa/skill-manager) | Cross-platform AI coding tool Skill unified manager. Supports importing projects, discovering and managing Skills from various tools, connecting to skills.sh online repository for installation/updates, and provides one-click backup sync to GitHub/Gitee remote repositories. Tech stack: React 19 + TypeScript + Tauri v2. |
+| [**wechat-translate**](https://github.com/congwa/wechat-translate) | Learn English while using WeChat — integrate English learning into daily chat conversations. Transform your WeChat browsing time into English learning opportunities with real-time translation and vocabulary building. |
 
 ### 📖 LangChain Source Code Study
 
