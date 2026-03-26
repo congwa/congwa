@@ -37,6 +37,12 @@
 |------|------|
 | [**langchain (fork)**](https://github.com/congwa/langchain/tree/master/libs/langchain_v1/doc) | LangChain v1.x 源码深度阅读笔记，伴随 LangChain 版本更新持续总结新特性。30+ 篇深度解析，涵盖 Agent 完整架构、ReAct 思维模式演进、MCP 集成、Tools 工具体系、中间件机制（PII 脱敏、人工参与、摘要、内容审核、重试、工具/模型调用限制）、短期/长期记忆（checkpointer、Store）、缓存、钩子、context_schema、结构化输出、动态工具注册等核心模块。版本覆盖：v1.0 → v1.1 → v1.2.0 → v1.2.7。 |
 
+### 🦌 DeerFlow 架构研究
+
+| 项目 | 简介 |
+|------|------|
+| [**deer-flow (fork)**](https://github.com/congwa/deer-flow/tree/main/doc) | 字节跳动开源超级智能体框架深度解析。15 篇文章涵盖多智能体编排、父子 Agent 协调、通过工具调用实现任务委派、上下文隔离、沙箱执行、记忆系统及设计取舍。深入探索 DeerFlow 2.0 如何编排子智能体、管理长期记忆，并通过可扩展技能系统处理复杂多步骤任务。 |
+
 ### 📝 个人博客
 
 | 项目 | 简介 |

@@ -37,7 +37,13 @@ I'm a full-stack developer passionate about AI-powered tools and developer exper
 |---------|-------------|
 | [**langchain (fork)**](https://github.com/congwa/langchain/tree/master/libs/langchain_v1/doc) | In-depth source code reading notes for LangChain v1.x, continuously updated with new releases. 30+ articles covering Agent architecture, ReAct paradigm evolution, MCP integration, Tools, middleware (PII desensitization, human-in-the-loop, summarization, content moderation, retry, tool/model call limits), short/long-term memory (checkpointer, Store), cache, hooks, context_schema, structured output, dynamic tool registration, and more. Versions covered: v1.0 → v1.1 → v1.2.0 → v1.2.7. |
 
-### � Blog
+### 🦌 DeerFlow Architecture Study
+
+| Project | Description |
+|---------|-------------|
+| [**deer-flow (fork)**](https://github.com/congwa/deer-flow/tree/main/doc) | Deep dive into ByteDance's open-source Super Agent harness. 15 articles covering multi-agent orchestration, parent-child agent coordination, task delegation via tool calls, context isolation, sandboxed execution, memory systems, and design tradeoffs. Explores how DeerFlow 2.0 orchestrates sub-agents, manages long-term memory, and handles complex multi-step tasks through extensible skills. |
+
+### 📝 Blog
 
 | Project | Description |
 |---------|-------------|
