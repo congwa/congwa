@@ -21,6 +21,7 @@ I'm a full-stack developer passionate about AI-powered tools and developer exper
 
 | Project | Description |
 |---------|-------------|
+| [**codex-autoresearch**](https://github.com/congwa/codex-autoresearch) | A Bash daemon script that keeps Codex running on long tasks — prevents automatic stops and ensures continuous execution through session resume and completion protocol verification. Perfect for unattended long-running tasks with state persistence and recovery. |
 | [**mobile-agent**](https://github.com/congwa/mobile-agent) | Mobile AI automated testing platform — MCP Tools + AI Agent + Visual Console. Powered by LangChain & LangGraph, supports Android/iOS dual-platform with 39 MCP tools. Features three-paradigm auto-degradation and intelligent verification. |
 | [**Cursor-Analysis**](https://github.com/congwa/Cursor-Analysis) | A macOS desktop app for deep analysis of Cursor IDE usage. Parses local SQLite databases to provide insights on project stats, code contributions, session management, and storage optimization. |
 | [**wdm**](https://github.com/congwa/wdm) | Windsurf Data Manager — an intelligent data management tool for the Windsurf AI dev environment. Provides AI conversation pause/feedback, smart storage cleanup, and comprehensive data analytics. |
