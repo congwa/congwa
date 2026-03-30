@@ -21,7 +21,6 @@ I'm a full-stack developer passionate about AI-powered tools and developer exper
 
 | Project | Description |
 |---------|-------------|
-| [**openclaw-crm**](https://github.com/congwa/openclaw-crm) | An OpenClaw-based WeCom CRM plugin — transforms CRM from a backend system into a conversational colleague. Sales manage customers through chat, managers view real-time data, customers interact via WeChat service channel. All data automatically captured with AI-enhanced but controllable workflows. |
 | [**codex-autoresearch**](https://github.com/congwa/codex-autoresearch) | A Bash daemon script that keeps Codex running on long tasks — prevents automatic stops and ensures continuous execution through session resume and completion protocol verification. Perfect for unattended long-running tasks with state persistence and recovery. |
 | [**mobile-agent**](https://github.com/congwa/mobile-agent) | Mobile AI automated testing platform — MCP Tools + AI Agent + Visual Console. Powered by LangChain & LangGraph, supports Android/iOS dual-platform with 39 MCP tools. Features three-paradigm auto-degradation and intelligent verification. |
 | [**Cursor-Analysis**](https://github.com/congwa/Cursor-Analysis) | A macOS desktop app for deep analysis of Cursor IDE usage. Parses local SQLite databases to provide insights on project stats, code contributions, session management, and storage optimization. |
@@ -32,6 +31,7 @@ I'm a full-stack developer passionate about AI-powered tools and developer exper
 | [**GitPulse**](https://github.com/congwa/GitPulse) | A Tauri + React desktop app for team code analytics. Parses Git repository history with AI-powered analysis to provide comprehensive code contribution insights, team collaboration diagnostics, and quality assessment. Features dashboard, team overview, member profiles, module analysis, AI insights, and "slacker detection" with DeepAgent multi-level architecture. |
 | [**skill-manager**](https://github.com/congwa/skill-manager) | Cross-platform AI coding tool Skill unified manager. Supports importing projects, discovering and managing Skills from various tools, connecting to skills.sh online repository for installation/updates, and provides one-click backup sync to GitHub/Gitee remote repositories. Tech stack: React 19 + TypeScript + Tauri v2. |
 | [**wechat-translate**](https://github.com/congwa/wechat-translate) | Learn English while using WeChat — integrate English learning into daily chat conversations. Transform your WeChat browsing time into English learning opportunities with real-time translation and vocabulary building. |
+| [**openclaw-crm**](https://github.com/congwa/openclaw-crm) | An OpenClaw-based WeCom CRM plugin — transforms CRM from a backend system into a conversational colleague. Sales manage customers through chat, managers view real-time data, customers interact via WeChat service channel. All data automatically captured with AI-enhanced but controllable workflows. |
 
 ### 📖 LangChain Source Code Study
 

@@ -21,7 +21,6 @@
 
 | 项目 | 简介 |
 |------|------|
-| [**openclaw-crm**](https://github.com/congwa/openclaw-crm) | 基于 OpenClaw 的企业微信 CRM 插件 —— 让 CRM 从后台系统变成会协作的同事。销售通过对话管理客户，老板实时查看数据，客户通过微信客服通道交互，所有数据自动沉淀。AI 增强但可控，支持四档运行模式。 |
 | [**codex-autoresearch**](https://github.com/congwa/codex-autoresearch) | Codex 长任务守护脚本 —— 避免 Codex 执行长任务时自动停止，通过会话恢复和完成协议验证确保持续执行。支持状态持久化和恢复，适合无人值守的长任务场景。 |
 | [**mobile-agent**](https://github.com/congwa/mobile-agent) | 移动端 AI 自动化测试平台 —— MCP 工具 + AI Agent + 可视化操控台。基于 LangChain & LangGraph，支持 Android/iOS 双平台，提供 39 个 MCP 工具，支持三范式自动降级与智能验证。 |
 | [**Cursor-Analysis**](https://github.com/congwa/Cursor-Analysis) | 专为 macOS 打造的 Cursor IDE 使用分析桌面应用。解析本地 SQLite 数据库，提供项目统计、代码贡献、会话管理和存储优化建议。 |
@@ -32,6 +31,7 @@
 | [**GitPulse**](https://github.com/congwa/GitPulse) | 基于 Tauri + React 的桌面应用，用数据讲述团队的代码故事。解析 Git 仓库历史记录，结合 AI 智能分析，提供全方位的代码贡献洞察、团队协作诊断和代码质量评估。功能包括仪表盘、团队全景、成员画像、模块分析、AI 洞察和工贼检测中心（基于 DeepAgent 多级 Agent 架构）。 |
 | [**skill-manager**](https://github.com/congwa/skill-manager) | 跨平台 AI 编码工具 Skill 统一管理器。支持导入项目、发现并管理各工具的 Skill，连接 skills.sh 在线仓库进行安装/更新，并提供一键备份同步至 GitHub/Gitee 远程仓库的能力。技术栈：React 19 + TypeScript + Tauri v2。 |
 | [**wechat-translate**](https://github.com/congwa/wechat-translate) | 在微信中学英语 —— 让英语学习融入日常聊天，把刷微信的时间变成学英语的机会。提供实时翻译和词汇构建功能，让您的微信时间成为英语学习时光。 |
+| [**openclaw-crm**](https://github.com/congwa/openclaw-crm) | 基于 OpenClaw 的企业微信 CRM 插件 —— 让 CRM 从后台系统变成会协作的同事。销售通过对话管理客户，老板实时查看数据，客户通过微信客服通道交互，所有数据自动沉淀。AI 增强但可控，支持四档运行模式。 |
 
 ### 📖 LangChain 源码阅读
 
