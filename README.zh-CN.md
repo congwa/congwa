@@ -15,12 +15,15 @@
 
 我是一名全栈开发者，热衷于 AI 工具开发和开发者体验优化。专注于构建实用的、可投产的 AI 应用 —— 从智能 Agent、知识检索系统到 AI 辅助开发工具。同时积极参与开源社区，维护多个 AI 相关项目。
 
-**技术栈：** Node.js、Go、Python、Vue、React、UniApp、Astro、LangChain、LangGraph、FastAPI、Electron、Tauri
+**技术栈：** Rust、Node.js、Go、Python、Vue、React、UniApp、Astro、LangChain、LangGraph、FastAPI、PostgreSQL、Electron、Tauri
 
 ### 🤖 AI 开源项目
 
 | 项目 | 简介 |
 |------|------|
+| [**sub2org**](https://github.com/congwa/sub2org) | 把多台已登录 ChatGPT 或 Claude 的浏览器组成 Worker 池，对外提供 OpenAI 兼容的流式 API。Rust 服务端负责 Worker 调度、会话亲和、故障转移、访问控制和后台管理。 |
+| [**sub2claude**](https://github.com/congwa/sub2claude) | 把多台运行 Claude Code 的机器接入同一个中控服务，对外提供 OpenAI / Anthropic 兼容 API。中控负责调度、会话、计费和本地项目工具调用，不需要上传整个项目。 |
+| [**agent-dev**](https://github.com/congwa/agent-dev) | 我读源码和做实验时整理的技术笔记，目前有 270+ 篇，内容包括 Agent Harness、Codex、LangChain、DeepSeek Harness、高并发、PostgreSQL 和计费系统。 |
 | [**codex-autoresearch**](https://github.com/congwa/codex-autoresearch) | Codex 长任务守护脚本 —— 避免 Codex 执行长任务时自动停止，通过会话恢复和完成协议验证确保持续执行。支持状态持久化和恢复，适合无人值守的长任务场景。 |
 | [**mobile-agent**](https://github.com/congwa/mobile-agent) | 移动端 AI 自动化测试平台 —— MCP 工具 + AI Agent + 可视化操控台。基于 LangChain & LangGraph，支持 Android/iOS 双平台，提供 39 个 MCP 工具，支持三范式自动降级与智能验证。 |
 | [**Cursor-Analysis**](https://github.com/congwa/Cursor-Analysis) | 专为 macOS 打造的 Cursor IDE 使用分析桌面应用。解析本地 SQLite 数据库，提供项目统计、代码贡献、会话管理和存储优化建议。 |
@@ -61,7 +64,7 @@
 
 ### 💬 聊聊
 
-- **后端：** Node.js、Go、Python
+- **后端：** Rust、Node.js、Go、Python、PostgreSQL
 - **前端：** Vue、React、UniApp、Astro
 - **AI/ML：** LangChain、LangGraph、RAG、MCP、Agent
 - **桌面端：** Electron、Tauri

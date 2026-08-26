@@ -15,12 +15,15 @@
 
 I'm a full-stack developer passionate about AI-powered tools and developer experience. I focus on building practical, production-ready AI applications — from intelligent agents and knowledge retrieval systems to AI-assisted development tooling. I'm also an active open-source contributor, maintaining several AI-related projects.
 
-**Tech Stack:** Node.js, Go, Python, Vue, React, UniApp, Astro, LangChain, LangGraph, FastAPI, Electron, Tauri
+**Tech Stack:** Rust, Node.js, Go, Python, Vue, React, UniApp, Astro, LangChain, LangGraph, FastAPI, PostgreSQL, Electron, Tauri
 
 ### 🤖 AI Open Source Projects
 
 | Project | Description |
 |---------|-------------|
+| [**sub2org**](https://github.com/congwa/sub2org) | Pools browsers logged in to ChatGPT or Claude and provides an OpenAI-compatible streaming API. The Rust server handles worker scheduling, session affinity, failover, access control, and administration. |
+| [**sub2claude**](https://github.com/congwa/sub2claude) | Connects machines running Claude Code to a central service and provides OpenAI- and Anthropic-compatible APIs. It handles scheduling, sessions, billing, and tool calls to local projects without uploading the full project. |
+| [**agent-dev**](https://github.com/congwa/agent-dev) | My notes from reading source code and running experiments. The repository has 270+ articles on agent harnesses, Codex, LangChain, DeepSeek Harness, concurrent systems, PostgreSQL, and billing systems. |
 | [**codex-autoresearch**](https://github.com/congwa/codex-autoresearch) | A Bash daemon script that keeps Codex running on long tasks — prevents automatic stops and ensures continuous execution through session resume and completion protocol verification. Perfect for unattended long-running tasks with state persistence and recovery. |
 | [**mobile-agent**](https://github.com/congwa/mobile-agent) | Mobile AI automated testing platform — MCP Tools + AI Agent + Visual Console. Powered by LangChain & LangGraph, supports Android/iOS dual-platform with 39 MCP tools. Features three-paradigm auto-degradation and intelligent verification. |
 | [**Cursor-Analysis**](https://github.com/congwa/Cursor-Analysis) | A macOS desktop app for deep analysis of Cursor IDE usage. Parses local SQLite databases to provide insights on project stats, code contributions, session management, and storage optimization. |
@@ -61,7 +64,7 @@ I'm a full-stack developer passionate about AI-powered tools and developer exper
 
 ### 💬 Talk with me
 
-- **Backend:** Node.js, Go, Python
+- **Backend:** Rust, Node.js, Go, Python, PostgreSQL
 - **Frontend:** Vue, React, UniApp, Astro
 - **AI/ML:** LangChain, LangGraph, RAG, MCP, Agent
 - **Desktop:** Electron, Tauri
