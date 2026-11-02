@@ -21,6 +21,7 @@ I'm a full-stack developer passionate about AI-powered tools and developer exper
 
 | Project | Description |
 |---------|-------------|
+| [**Agents Anywhere**](https://github.com/anywhere-labs/Agents-Anywhere) | Core developer of an open-source, cross-device Agent workspace. Connect work machines and manage Agent sessions, files, and terminals from desktop, mobile, and web. |
 | [**sub2org**](https://github.com/congwa/sub2org) | Pools browsers logged in to ChatGPT or Claude and provides an OpenAI-compatible streaming API. The Rust server handles worker scheduling, session affinity, failover, access control, and administration. |
 | [**sub2claude**](https://github.com/congwa/sub2claude) | Connects machines running Claude Code to a central service and provides OpenAI- and Anthropic-compatible APIs. It handles scheduling, sessions, billing, and tool calls to local projects without uploading the full project. |
 | [**agent-dev**](https://github.com/congwa/agent-dev) | My notes from reading source code and running experiments. The repository has 270+ articles on agent harnesses, Codex, LangChain, DeepSeek Harness, concurrent systems, PostgreSQL, and billing systems. |

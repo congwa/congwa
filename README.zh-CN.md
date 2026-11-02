@@ -21,6 +21,7 @@
 
 | 项目 | 简介 |
 |------|------|
+| [**Agents Anywhere**](https://github.com/anywhere-labs/Agents-Anywhere) | 核心开发者。跨设备的开源 Agent 工作台，可连接工作设备，在桌面、手机和 Web 管理 Agent 会话、文件与终端。 |
 | [**sub2org**](https://github.com/congwa/sub2org) | 把多台已登录 ChatGPT 或 Claude 的浏览器组成 Worker 池，对外提供 OpenAI 兼容的流式 API。Rust 服务端负责 Worker 调度、会话亲和、故障转移、访问控制和后台管理。 |
 | [**sub2claude**](https://github.com/congwa/sub2claude) | 把多台运行 Claude Code 的机器接入同一个中控服务，对外提供 OpenAI / Anthropic 兼容 API。中控负责调度、会话、计费和本地项目工具调用，不需要上传整个项目。 |
 | [**agent-dev**](https://github.com/congwa/agent-dev) | 我读源码和做实验时整理的技术笔记，目前有 270+ 篇，内容包括 Agent Harness、Codex、LangChain、DeepSeek Harness、高并发、PostgreSQL 和计费系统。 |
